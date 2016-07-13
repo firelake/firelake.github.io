@@ -1,1 +1,7 @@
-{"name":"Firelake.GitHub.io","tagline":"Personal page","body":"### Welcome to Firelake.\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "Firelake.GitHub.io",
+  "tagline": "Personal page",
+  "body": "### Welcome to Firelake.\r\n",
+  "google": "",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
