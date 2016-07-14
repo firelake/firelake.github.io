@@ -7,7 +7,7 @@ const App = React.createClass({
     render: function () {
         return (
             <MuiThemeProvider>
-                <AppBar title="Firelake" />
+                <AppBar title="Firelake" createClass='blog-header' />
             </MuiThemeProvider>
         );
     }
