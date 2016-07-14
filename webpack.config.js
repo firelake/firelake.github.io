@@ -18,6 +18,9 @@ module.exports = {
                     presets: ['react', 'es2015']
                 },
                 exclude: /node_modules/
+            },
+            {
+                test: /\.css$/, loader: "style!css"
             }
         ]
     }
